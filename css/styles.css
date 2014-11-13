@@ -1,6 +1,16 @@
 /* Your Website Styles */
+body{
+	font-family: 'Abril Fatface', cursive;
+	background-image: url("../img/swirl_pattern.png");
+}
 
-
+h1{
+ 	color: #7A5D62;
+ 	text-align: center;
+}
+h3{
+	color: #7A5D62;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
